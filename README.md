@@ -1,7 +1,7 @@
 # Frontend of PawsToHands
 
-Link to the landing page  
-https://paws-to-hands-frontend.herokuapp.com/
+Link to the backend page  
+https://github.com/yunyichi/PawsToHands-backend
 
 ----
 ## Overview
